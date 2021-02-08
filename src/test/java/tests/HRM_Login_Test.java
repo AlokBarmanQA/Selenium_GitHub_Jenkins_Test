@@ -31,6 +31,7 @@ public class HRM_Login_Test {
 		String expectedDashboardText = "Dashboard";
 		String actualDashboardText = driver.findElement(By.xpath("//*[@id='content']/div/div[1]/h1")).getText();
 		Assert.assertEquals(actualDashboardText, expectedDashboardText);
+		System.out.println(driver.getTitle());
 	}
 	@AfterMethod
 	public void tearDown() {
