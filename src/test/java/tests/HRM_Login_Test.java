@@ -20,6 +20,7 @@ public class HRM_Login_Test {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://opensource-demo.orangehrmlive.com/");
+		System.out.println("Execution is starting.....");
 	}
 	@Test
 	public void loginTest() {
