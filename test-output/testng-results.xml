@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="15954" started-at="2021-02-08T16:11:29 EST" finished-at="2021-02-08T16:11:45 EST">
+  <suite name="Default suite" duration-ms="9116" started-at="2021-02-09T03:36:14 EST" finished-at="2021-02-09T03:36:23 EST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="15954" started-at="2021-02-08T16:11:29 EST" finished-at="2021-02-08T16:11:45 EST">
+    <test name="Default test" duration-ms="9116" started-at="2021-02-09T03:36:14 EST" finished-at="2021-02-09T03:36:23 EST">
       <class name="tests.HRM_Login_Test">
-        <test-method status="PASS" signature="setup()[pri:0, instance:tests.HRM_Login_Test@6895a785]" name="setup" is-config="true" duration-ms="12321" started-at="2021-02-08T16:11:29 EST" finished-at="2021-02-08T16:11:41 EST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.HRM_Login_Test@6895a785]" name="setup" is-config="true" duration-ms="5076" started-at="2021-02-09T03:36:14 EST" finished-at="2021-02-09T03:36:19 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:tests.HRM_Login_Test@6895a785]" name="loginTest" duration-ms="2808" started-at="2021-02-08T16:11:41 EST" finished-at="2021-02-08T16:11:44 EST">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:tests.HRM_Login_Test@6895a785]" name="loginTest" duration-ms="2760" started-at="2021-02-09T03:36:19 EST" finished-at="2021-02-09T03:36:21 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.HRM_Login_Test@6895a785]" name="tearDown" is-config="true" duration-ms="750" started-at="2021-02-08T16:11:44 EST" finished-at="2021-02-08T16:11:45 EST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.HRM_Login_Test@6895a785]" name="tearDown" is-config="true" duration-ms="1200" started-at="2021-02-09T03:36:21 EST" finished-at="2021-02-09T03:36:23 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
